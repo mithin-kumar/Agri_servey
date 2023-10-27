@@ -8,3 +8,6 @@ Our Approach : Firtly we tried with image processing techniques to identify the 
 Deep learning technologies, where our task is to develop an image segamentation model  using UNet.
 
 We have used 70:20:10 as our train test val ratio on our images.We have used Label studio for genertating annotated masks for the images.And trained our model in Google Colab
+
+Our Mask image:
+![image](https://github.com/mithin-kumar/Agri_servey/assets/82752630/61032848-2e82-4044-a8ff-ea76349839b1)
