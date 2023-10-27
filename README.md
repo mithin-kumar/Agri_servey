@@ -13,5 +13,7 @@ Our Mask image:
 ![image](https://github.com/mithin-kumar/Agri_servey/assets/82752630/61032848-2e82-4044-a8ff-ea76349839b1)
 
 #Pred Vs Original Mask:
-![image](https://drive.google.com/file/d/1phFReL_KdnvlZB06yZ6zVdC6qDnhJ3sp/view?usp=drive_link)
-![image](https://drive.google.com/file/d/116mP8rTywSRUF27FARbBlb03myy3Ljea/view?usp=sharing)
+![image](https://github.com/mithin-kumar/Agri_servey/assets/82752630/33bf1c85-0b04-4d25-b031-e6deee6bf257)
+
+![image](https://github.com/mithin-kumar/Agri_servey/assets/82752630/efe64c36-0545-4476-b6e4-aa12ca89d019)
+
